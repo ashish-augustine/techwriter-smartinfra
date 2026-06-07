@@ -1,0 +1,58 @@
+site_name: SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
+site_description: Enterprise documentation program portfolio
+nav:
+  - Executive Summary: index.md
+  - Documentation Vision and Strategy: 02-documentation-vision-and-strategy.md
+  - Enterprise Documentation Governance Framework: 03-enterprise-documentation-governance-framework.md
+  - Information Architecture Blueprint: 04-information-architecture-blueprint.md
+  - Knowledge Management Program: 05-knowledge-management-program.md
+  - Taxonomy Design: 06-taxonomy-design.md
+  - Metadata Standards: 07-metadata-standards.md
+  - Content Ownership Model: 08-content-ownership-model.md
+  - Documentation Lifecycle Model: 09-documentation-lifecycle-model.md
+  - Documentation Review Framework: 10-documentation-review-framework.md
+  - Engineering Documentation Architecture: 11-engineering-documentation-architecture.md
+  - Infrastructure Asset Documentation System: 12-infrastructure-asset-documentation-system.md
+  - Asset Lifecycle Documentation: 13-asset-lifecycle-documentation.md
+  - Bridge Maintenance Documentation: 14-bridge-maintenance-documentation.md
+  - Rail Operations Documentation: 15-rail-operations-documentation.md
+  - Traffic Management Documentation: 16-traffic-management-documentation.md
+  - Utilities Documentation Framework: 17-utilities-documentation-framework.md
+  - Water Infrastructure Documentation: 18-water-infrastructure-documentation.md
+  - Emergency Response Documentation: 19-emergency-response-documentation.md
+  - Incident Management Documentation: 20-incident-management-documentation.md
+  - Preventive Maintenance Documentation: 21-preventive-maintenance-documentation.md
+  - Risk Assessment Documentation: 22-risk-assessment-documentation.md
+  - Safety Documentation Framework: 23-safety-documentation-framework.md
+  - Regulatory Compliance Documentation: 24-regulatory-compliance-documentation.md
+  - Standard Operating Procedures Library: 25-standard-operating-procedures-library.md
+  - Operations Manual: 26-operations-manual.md
+  - Maintenance Manual: 27-maintenance-manual.md
+  - Troubleshooting Manual: 28-troubleshooting-manual.md
+  - Technical Reference Manual: 29-technical-reference-manual.md
+  - Knowledge Base Architecture: 30-knowledge-base-architecture.md
+  - Search Strategy Design: 31-search-strategy-design.md
+  - Documentation Templates: 32-documentation-templates.md
+  - Documentation Standards: 33-documentation-standards.md
+  - Documentation Style Guide: 34-documentation-style-guide.md
+  - Engineering Change Documentation Process: 35-engineering-change-documentation-process.md
+  - Training and Learning Framework: 36-training-and-learning-framework.md
+  - Certification Program Documentation: 37-certification-program-documentation.md
+  - Documentation Quality Assurance Framework: 38-documentation-quality-assurance-framework.md
+  - Content Audit Methodology: 39-content-audit-methodology.md
+  - Documentation Analytics Program: 40-documentation-analytics-program.md
+  - Documentation KPIs: 41-documentation-kpis.md
+  - Documentation ROI Framework: 42-documentation-roi-framework.md
+  - Content Health Metrics: 43-content-health-metrics.md
+  - Governance Dashboard: 44-governance-dashboard.md
+  - Stakeholder Communication Framework: 45-stakeholder-communication-framework.md
+  - Cross-Functional Collaboration Model: 46-cross-functional-collaboration-model.md
+  - Documentation Risk Register: 47-documentation-risk-register.md
+  - Enterprise Documentation Roadmap: 48-enterprise-documentation-roadmap.md
+  - Future-State Documentation Architecture: 49-future-state-documentation-architecture.md
+  - Senior Technical Writer Leadership Contributions: 50-senior-technical-writer-leadership-contributions.md
+theme:
+  name: readthedocs
+markdown_extensions:
+  - toc:
+      permalink: true
