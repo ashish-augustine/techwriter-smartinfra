@@ -53,6 +53,9 @@ nav:
   - Senior Technical Writer Leadership Contributions: 50-senior-technical-writer-leadership-contributions.md
 theme:
   name: readthedocs
+plugins:
+  - search
+  - mermaid2
 markdown_extensions:
   - toc:
       permalink: true

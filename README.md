@@ -10,7 +10,7 @@ This repository contains an MkDocs site scaffold with full program structure and
 2. Install MkDocs and the Material theme (optional):
 
 ```bash
-pip install mkdocs mkdocs-material
+pip install -r requirements.txt
 ```
 
 3. Serve locally:
@@ -40,5 +40,7 @@ This project is configured for Netlify deployment: connect your GitHub repo to N
 
 1. Verify files in this workspace and reply `OK` to authorize local commit preparation.
 2. I will provide exact GitHub remote creation and push commands that use your GitHub token (you will run them), or I can run them if you confirm secure token use method.
+
 # techwriter-vscodecopilot-1smartinfra
+
 # techwriter-vscodecopilot-1smartinfra

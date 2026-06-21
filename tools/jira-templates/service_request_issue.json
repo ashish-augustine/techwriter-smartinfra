@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "project": { "key": "DOC" },
+    "summary": "[Service Request] <short summary>",
+    "issuetype": { "name": "Service Request" },
+    "description": "h3. Description\nProvide a clear description of the request.\n\nh3. Acceptance Criteria\n* ...\n\nh3. Stakeholders\n* Name (Role)",
+    "labels": ["documentation", "service-request"]
+  }
+}
