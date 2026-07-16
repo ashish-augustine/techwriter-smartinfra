@@ -1,10 +1,10 @@
 # About the Writer
 
-This portfolio is authored by a senior technical writer with deep experience in infrastructure, transportation, utilities, and engineering documentation programs.
+This portfolio is authored by Ashish Augustine, an experienced technical writer with deep experience in infrastructure, transportation, utilities, and engineering documentation programs.
 
 ## Professional profile
 
-- Senior Technical Writer with experience designing and leading enterprise documentation programs.
+- Proficient Technical Writer with experience designing and leading enterprise documentation programs.
 - Expertise in documentation strategy, governance, information architecture, knowledge management, and process visualisation.
 - Skilled at translating complex technical and regulatory requirements into clear, usable content.
 - Proven ability to engage stakeholders, manage content owners, and deliver audit-ready documentation.
