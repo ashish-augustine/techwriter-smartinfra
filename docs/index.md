@@ -1,24 +1,42 @@
 # Executive Summary
 
-This portfolio presents the "SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM" — an enterprise documentation program designed and governed by a Senior Technical Writer with seven years' experience to demonstrate capability to lead documentation across infrastructure, transportation, utilities, and government projects in New Zealand.
+> Senior technical writing portfolio for enterprise infrastructure and engineering documentation. Designed to show modern documentation program leadership, governance, visual workflows, and measurable outcomes.
 
-Objectives
+This portfolio presents the "SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM" — an enterprise documentation program created by a Senior Technical Writer with senior-level experience in infrastructure, transportation, utilities, and government documentation.
 
-- Present a program-level approach (strategy, governance, IA, KM, templates).
-- Provide a live MkDocs site demonstrating structure, processes, and artifacts.
+## Portfolio purpose
 
-Scope
+This site is intended to demonstrate how a senior writer can lead a documentation program from strategy through governance, delivery, and continuous improvement.
 
-- Program blueprint covering 50 documentation areas; two short sample content pages provided.
+## What this portfolio shows
 
-Stakeholders
+- Documentation strategy aligned to governance and risk management
+- Information architecture, knowledge management, and metadata standards
+- Templates, review frameworks, and lifecycle models
+- Dashboards, metrics, and reporting for executive stakeholders
+- Leadership contributions, case studies, and portfolio delivery
 
-- Hiring managers, Engineering Manager, Safety Lead, Asset Manager.
+## Why this matters
 
-Deliverables
+A strong documentation program reduces operational risk, improves compliance, enhances maintainability, and accelerates stakeholder decision-making.
 
-- Live MkDocs site, governance artifacts, templates, two section pages, Netlify deployment instructions.
+## Core value delivered
 
-Verification
+- Clarity for cross-functional teams
+- Consistency across enterprise documentation
+- Governance-ready content and change control
+- Measurable improvement with dashboards and KPIs
 
-- Author to confirm by screenshot or message; repository to be committed and pushed to GitHub as next step.
+## How to use this portfolio
+
+1. Read this Executive Summary for program context.
+2. Explore the Portfolio Showcase for senior leadership themes.
+3. Review the Governance Dashboard and Leadership Contributions pages for applied examples.
+4. Open Flowchart Diagrams to see visual process documentation.
+
+## Key sections to review
+
+- `Portfolio Showcase`
+- `Flowchart Diagrams`
+- `Governance Dashboard`
+- `Senior Technical Writer Leadership Contributions`

@@ -1,0 +1,99 @@
+/* Custom site styling for a cleaner, more modern portfolio layout */
+
+body {
+  background: #f3f6fb;
+  color: #1b2733;
+}
+
+.wy-nav-content-wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.wy-nav-content {
+  padding: 24px 40px;
+}
+
+.wy-nav-content .md-content {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 32px 36px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(25, 41, 64, 0.06);
+}
+
+.wy-side-nav {
+  background: #0f3056;
+}
+
+.wy-side-nav .logo a {
+  color: #ffffff;
+}
+
+.wy-side-nav a {
+  color: #cfd9e6;
+}
+
+.wy-side-nav .current {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.wy-side-nav a:hover,
+.wy-side-nav a:focus {
+  color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #10283a;
+}
+
+h1 {
+  font-size: 2.6rem;
+  margin-bottom: 0.75rem;
+}
+
+.md-content p,
+.md-content li {
+  line-height: 1.75;
+}
+
+blockquote {
+  border-left: 5px solid #0f5ab5;
+  background: rgba(15, 90, 181, 0.08);
+  padding: 18px 24px;
+  color: #0f3f7a;
+  border-radius: 12px;
+}
+
+ul {
+  margin-left: 1.1rem;
+}
+
+@media screen and (max-width: 1040px) {
+  .wy-nav-content {
+    padding: 18px 24px;
+  }
+
+  .wy-nav-content .md-content {
+    padding: 26px 24px;
+  }
+}
+
+@media screen and (max-width: 880px) {
+  .wy-nav-content-wrap {
+    max-width: 100%;
+  }
+
+  .wy-nav-content {
+    padding: 18px 20px;
+  }
+
+  .wy-side-nav {
+    min-width: 240px;
+  }
+}

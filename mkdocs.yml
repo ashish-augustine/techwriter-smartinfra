@@ -2,6 +2,10 @@ site_name: SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
 site_description: Enterprise documentation program portfolio
 nav:
   - Executive Summary: index.md
+  - About the Writer: about-the-writer.md
+  - Portfolio Showcase: portfolio-showcase.md
+  - Case Study: case-study-documentation-program.md
+  - Flowchart Diagrams: flowcharts.md
   - Documentation Vision and Strategy: 02-documentation-vision-and-strategy.md
   - Enterprise Documentation Governance Framework: 03-enterprise-documentation-governance-framework.md
   - Information Architecture Blueprint: 04-information-architecture-blueprint.md
@@ -53,6 +57,8 @@ nav:
   - Senior Technical Writer Leadership Contributions: 50-senior-technical-writer-leadership-contributions.md
 theme:
   name: readthedocs
+  extra_css:
+    - css/custom.css
 plugins:
   - search
   - mermaid2

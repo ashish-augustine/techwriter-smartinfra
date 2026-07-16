@@ -16,6 +16,20 @@ Deliverables
 
 - Dashboard wireframes and data mapping for the MkDocs site and external BI tools.
 
+Governance dashboard workflow
+
+```mermaid
+flowchart TD
+  Start([Start]) --> Collect[Collect governance metrics]
+  Collect --> Validate[Validate data sources]
+  Validate --> Transform[Transform into dashboard metrics]
+  Transform --> Report[Generate snapshot and executive report]
+  Report --> Publish[Publish dashboard updates]
+  Publish --> Review[Review with governance board]
+  Review --> Adjust[Adjust governance actions]
+  Adjust --> Start
+```
+
 Processes
 
 - Weekly snapshot generation, monthly executive reports.

@@ -1,46 +1,54 @@
-# SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
+# SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PORTFOLIO
 
-Flagship documentation portfolio demonstrating enterprise documentation program design for Smart Cities, Transportation, Rail, Bridges, Tunnels, Highways, Utilities, Water and Energy Infrastructure.
+A senior technical writer portfolio presenting an enterprise documentation program for smart infrastructure, transportation, utilities, water, and civil engineering.
 
-This repository contains an MkDocs site scaffold with full program structure and content placeholders for 50 portfolio sections. Two sections (`Engineering Documentation Architecture` and `Bridge Maintenance Documentation`) include short one‑page content as requested.
+This repository contains a complete MkDocs portfolio site with strategy, governance, taxonomy, knowledge management, operating manuals, dashboards, and leadership case studies.
 
-## How to run locally
+## What this portfolio demonstrates
 
-1. Install Python 3.8+ and pip.
-2. Install MkDocs and the Material theme (optional):
+- senior-level documentation program leadership
+- enterprise governance and stakeholder engagement
+- cross-discipline documentation architecture
+- measurable documentation health, KPIs, and dashboards
+- process visualisation through Mermaid flowcharts
+
+## Run locally
+
+Install dependencies into a virtual environment and serve the site.
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
+.venv/bin/python3 -m mkdocs serve
 ```
 
-3. Serve locally:
+> If `mkdocs serve` is unavailable, run:
+> `.venv/bin/python3 -m mkdocs serve`
+
+Build the static site:
 
 ```bash
-mkdocs serve
+.venv/bin/python3 -m mkdocs build
 ```
 
-Build site:
+## Explore the portfolio
 
-```bash
-mkdocs build
-```
-
-## Netlify deploy
-
-This project is configured for Netlify deployment: connect your GitHub repo to Netlify and configure the build command `mkdocs build` and publish directory `site`.
+- `docs/index.md` — Executive summary and portfolio framing
+- `docs/about-the-writer.md` — About the senior technical writer and delivery approach
+- `docs/portfolio-showcase.md` — Senior-level portfolio showcase and outcomes
+- `docs/case-study-documentation-program.md` — Case study showing program delivery and results
+- `docs/flowcharts.md` — Mermaid flowchart examples and visual documentation
+- `docs/44-governance-dashboard.md` — Governance dashboard workflow and reporting model
+- `docs/50-senior-technical-writer-leadership-contributions.md` — Leadership contributions and impact narrative
 
 ## Repository structure
 
-- `mkdocs.yml` — MkDocs configuration and navigation.
-- `docs/` — MkDocs content (50 section pages).
-- `Requirements.md` — Finalized requirements capture.
-- `LICENSE` — MIT license.
+- `mkdocs.yml` — site navigation and theme configuration
+- `docs/` — portfolio content and sample deliverables
+- `requirements.txt` — required Python packages
+- `LICENSE` — MIT license
 
-## Next steps (please verify before I push)
+## Notes
 
-1. Verify files in this workspace and reply `OK` to authorize local commit preparation.
-2. I will provide exact GitHub remote creation and push commands that use your GitHub token (you will run them), or I can run them if you confirm secure token use method.
-
-# techwriter-vscodecopilot-1smartinfra
-
-# techwriter-vscodecopilot-1smartinfra
+This portfolio is created for a senior technical writer who wants to present a professional, enterprise-ready documentation program with strong governance, visual storytelling, and measurable outcomes.
