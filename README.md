@@ -30,16 +30,16 @@ This portfolio contains **50+ strategic documentation frameworks**, operating ma
 
 ### Professional Skills & Competencies
 
-| Skill Category | Demonstrated Expertise |
-|---|---|
+| Skill Category               | Demonstrated Expertise                                                        |
+| ---------------------------- | ----------------------------------------------------------------------------- |
 | **Information Architecture** | Enterprise taxonomy design, metadata standards, hierarchical content modeling |
-| **Documentation Governance** | Stakeholder frameworks, compliance models, review processes, risk registers |
-| **Knowledge Management** | Content ownership models, lifecycle management, search strategy design |
-| **Program Leadership** | Strategy development, governance frameworks, ROI measurement, KPI dashboards |
-| **Content Auditing** | Quality assurance frameworks, health metrics, audit methodologies |
-| **Domain Expertise** | Civil engineering, infrastructure operations, safety, emergency response |
-| **Change Management** | Engineering change processes, training frameworks, certification programs |
-| **Analytics & Reporting** | Documentation analytics, KPI tracking, governance dashboards |
+| **Documentation Governance** | Stakeholder frameworks, compliance models, review processes, risk registers   |
+| **Knowledge Management**     | Content ownership models, lifecycle management, search strategy design        |
+| **Program Leadership**       | Strategy development, governance frameworks, ROI measurement, KPI dashboards  |
+| **Content Auditing**         | Quality assurance frameworks, health metrics, audit methodologies             |
+| **Domain Expertise**         | Civil engineering, infrastructure operations, safety, emergency response      |
+| **Change Management**        | Engineering change processes, training frameworks, certification programs     |
+| **Analytics & Reporting**    | Documentation analytics, KPI tracking, governance dashboards                  |
 
 ### Technical Skills Demonstrated
 
@@ -55,21 +55,25 @@ This portfolio contains **50+ strategic documentation frameworks**, operating ma
 ## 🛠 Technologies & Tools Used
 
 ### Documentation Platform
+
 - **MkDocs** — Static site generator for technical documentation
 - **Material for MkDocs** — Professional, responsive theme with full-text search
 - **Mermaid2 Plugin** — Diagram and flowchart generation from text
 
 ### Development & Version Control
+
 - **Python 3.8+** — Runtime environment
 - **Git & GitHub** — Version control, repository management
 - **Virtual Environments (venv)** — Dependency isolation and reproducibility
 
 ### Documentation Standards
+
 - **Markdown** — All content authored in portable, version-controllable format
 - **YAML** — Configuration management for site structure and settings
 - **HTML/CSS** — Custom styling and theme extensions
 
 ### Infrastructure & Deployment Ready
+
 - **Static Site Build** — Fast, secure, scalable deployment options
 - **Search Integration** — Full-text search capability for enterprise knowledge base
 - **Responsive Design** — Mobile-friendly documentation viewing
@@ -160,6 +164,7 @@ This portfolio contains **50+ strategic documentation frameworks**, operating ma
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - Python 3.8 or higher
 - Git
 - Terminal/Command line access
@@ -167,26 +172,31 @@ This portfolio contains **50+ strategic documentation frameworks**, operating ma
 ### Installation & Setup
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/ashish-augustine/techwriter-vscodecopilot-1smartinfra.git
    cd 1.SMART-INFRA-COPILOT
    ```
 
 2. **Create virtual environment**
+
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
 3. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Serve locally**
+
    ```bash
    mkdocs serve
    ```
+
    The site will be available at `http://localhost:8000`
 
 5. **Build static site** (for deployment)
@@ -200,27 +210,32 @@ This portfolio contains **50+ strategic documentation frameworks**, operating ma
 ## 📚 Key Portfolio Sections
 
 ### Foundation & Strategy
+
 - **Documentation Vision & Strategy** — Enterprise-level documentation roadmap
 - **Governance Framework** — Stakeholder engagement, approval workflows, compliance
 - **Information Architecture** — Taxonomy design, metadata standards, content modeling
 
 ### Domain-Specific Frameworks
+
 - **Infrastructure Asset Documentation** — Bridge, rail, utilities, water systems
 - **Operations Manuals** — Complete operational guidance for complex systems
 - **Safety & Compliance** — Regulatory requirements, safety protocols, incident management
 
 ### Lifecycle & Operations
+
 - **Documentation Lifecycle Model** — Creation, review, approval, publication, archival
 - **Maintenance Documentation** — Preventive maintenance, troubleshooting, asset management
 - **Change Management** — Engineering change processes, update workflows
 
 ### Measurement & Governance
+
 - **Documentation KPIs** — Key performance indicators, success metrics
 - **Content Health Metrics** — Quality assessment, completeness scoring
 - **Analytics Program** — Usage tracking, ROI measurement, governance dashboards
 - **Risk Register** — Documentation-related risks and mitigation strategies
 
 ### Enablement & Support
+
 - **Training & Learning Framework** — User training, staff certification programs
 - **Templates & Standards** — Reusable documentation templates, style guides
 - **Quality Assurance** — Review frameworks, audit methodologies, continuous improvement
@@ -255,20 +270,25 @@ Start with these key entry points:
 ## 🛠 Development & Customization
 
 ### Theme Customization
+
 Edit `mkdocs.yml` to modify:
+
 - Site name and description
 - Navigation structure
 - Theme colors and appearance
 - Search settings
 
 ### Adding Content
+
 1. Create new `.md` file in `docs/`
 2. Add entry to `nav:` section in `mkdocs.yml`
 3. Run `mkdocs serve` to preview
 4. Commit and push to update live site
 
 ### Plugin Extensions
+
 Currently configured plugins:
+
 - **search** — Full-text search functionality
 - **mermaid2** — Diagram rendering from text
 
@@ -276,11 +296,11 @@ Currently configured plugins:
 
 ## 📦 Dependencies
 
-| Package | Purpose |
-|---------|---------|
-| `mkdocs` | Static site generator for documentation |
-| `mkdocs-material` | Professional Material Design theme |
-| `mkdocs-mermaid2-plugin` | Flowchart and diagram support |
+| Package                  | Purpose                                 |
+| ------------------------ | --------------------------------------- |
+| `mkdocs`                 | Static site generator for documentation |
+| `mkdocs-material`        | Professional Material Design theme      |
+| `mkdocs-mermaid2-plugin` | Flowchart and diagram support           |
 
 Install/update with: `pip install -r requirements.txt`
 
@@ -295,6 +315,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 ## 🤝 Contributing
 
 This is a portfolio project. To use as a template:
+
 1. Fork the repository
 2. Customize content in `docs/` directory
 3. Update `mkdocs.yml` with your project structure
@@ -317,7 +338,7 @@ This is a portfolio project. To use as a template:
 ✅ **Production-Ready** — Optimized for search, performance, and mobile  
 ✅ **Version Controlled** — Git-managed documentation, CI/CD ready  
 ✅ **Measurable Impact** — Analytics, KPIs, ROI frameworks integrated  
-✅ **Leadership Focused** — Demonstrates program delivery and strategic thinking  
+✅ **Leadership Focused** — Demonstrates program delivery and strategic thinking
 
 ---
 
