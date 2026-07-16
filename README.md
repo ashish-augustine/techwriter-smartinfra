@@ -15,6 +15,9 @@ A comprehensive enterprise documentation program portfolio demonstrating senior-
 
 This portfolio contains **50+ strategic documentation frameworks**, operating manuals, governance models, and KPI dashboards—demonstrating a complete enterprise documentation architecture for complex infrastructure systems. Built with modern documentation tools and designed to showcase end-to-end documentation program delivery.
 
+## Visit the project live at: 
+
+
 ### Portfolio Scope
 
 - **50 Strategic Documentation Frameworks** covering governance, compliance, asset management, and operations
