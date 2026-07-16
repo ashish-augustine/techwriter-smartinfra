@@ -177,8 +177,8 @@ This portfolio contains **50+ strategic documentation frameworks**, operating ma
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ashish-augustine/techwriter-vscodecopilot-1smartinfra.git
-   cd 1.SMART-INFRA-COPILOT
+   git clone https://github.com/ashish-augustine/techwriter-smartinfra.git
+   cd techwriter-smartinfra
    ```
 
 2. **Create virtual environment**
@@ -329,8 +329,8 @@ This is a portfolio project. To use as a template:
 ## 📬 Contact & Portfolio
 
 - **GitHub:** [@ashish-augustine](https://github.com/ashish-augustine)
-- **Repository:** [techwriter-vscodecopilot-1smartinfra](https://github.com/ashish-augustine/techwriter-vscodecopilot-1smartinfra)
-- **Live Site:** [Explore the documentation](https://github.com/ashish-augustine/techwriter-vscodecopilot-1smartinfra)
+- **Repository:** [techwriter-smartinfra](https://github.com/ashish-augustine/techwriter-smartinfra)
+- **Live Site:** [Explore the documentation](https://ashish-augustine.github.io/techwriter-smartinfra/)
 
 ---
 
