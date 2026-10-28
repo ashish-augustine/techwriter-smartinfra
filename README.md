@@ -1,4 +1,4 @@
-# SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
+# TECHNICAL WRITING PORTFOLIO  | SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
 
 > **Enterprise-Scale Documentation Portfolio** | Senior Technical Writer Leadership Showcase | 50+ Strategic Documentation Frameworks
 
