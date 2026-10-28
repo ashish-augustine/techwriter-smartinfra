@@ -1,8 +1,7 @@
 # TECHNICAL WRITING PORTFOLIO  
 # SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
 
-**Technical Writing · Technical Documentation · Docs-as-Code ·
-Information Architecture · Documentation Governance**
+
 
 > **Enterprise-Scale Documentation Portfolio** | Senior Technical Writer Leadership Showcase | 50+ Strategic Documentation Frameworks
 
@@ -14,6 +13,9 @@ A comprehensive enterprise documentation program portfolio demonstrating technic
 ![MkDocs](https://img.shields.io/badge/MkDocs-Latest-brightgreen?style=flat-square)
 
 ---
+
+**Technical Writing · Technical Documentation · Docs-as-Code ·
+Information Architecture · Documentation Governance**
 
 ## 📋 Overview
 
