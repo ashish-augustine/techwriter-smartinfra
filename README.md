@@ -1,7 +1,7 @@
 # TECHNICAL WRITING PORTFOLIO  
 # SMART INFRASTRUCTURE & CIVIL ENGINEERING DOCUMENTATION PROGRAM
 
-**Senior Technical Writing · Technical Documentation · Docs-as-Code ·
+**Technical Writing · Technical Documentation · Docs-as-Code ·
 Information Architecture · Documentation Governance**
 
 > **Enterprise-Scale Documentation Portfolio** | Senior Technical Writer Leadership Showcase | 50+ Strategic Documentation Frameworks
